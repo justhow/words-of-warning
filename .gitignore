@@ -1,12 +1,16 @@
 # provide path of the file
+
 .DS_Store
 .ipynb_checkpoints
 twitter API tokens.txt
 lightning-talks.txt
 Project Outline.txt
+fixing a mistake.ipynb
 
-# we can also specify pattern
-# like if I want to ignore all files
-# in the conf folder
 capitol-riot-tweets/*
-data/Twitter Scraper.ipynb
+data/*
+01/
+02/
+03/
+04/
+05/
